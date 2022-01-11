@@ -4,6 +4,10 @@ public class TestCase001 {
 
     //hello
 
+    public static void main(String[] args) {
+        System.out.println("hello");
+    }
+
 
 
 
