@@ -8,6 +8,8 @@ public class TestCase001 {
         System.out.println("hello");
 
         System.out.println("I don't know what is going  on");
+
+        System.out.println("Let's see what happened");
     }
 
 
